@@ -76,5 +76,4 @@ OFTEST_REGISTER(ofstd_xmlParser);
 OFTEST_REGISTER(ofstd_memory);
 OFTEST_REGISTER(ofstd_optional);
 OFTEST_REGISTER(ofstd_tuple);
-OFTEST_REGISTER(ofstd_limits);
 OFTEST_MAIN("ofstd")
